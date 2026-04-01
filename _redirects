@@ -1,3 +1,2 @@
-# No trailing slash redirects here - handled in netlify.toml
-# 404 fallback
+# 404 fallback only - no trailing slash redirects (handled by netlify.toml)
 /*    /404.html    404
